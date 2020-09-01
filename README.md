@@ -1,7 +1,7 @@
 # word-crossy-cheater
 Find all combination of letters with provided flags to narrow down search results
 
-Command: java -jar Decoder.jar RDWO 4 -prefix W -suffix D -contains R -regex -OR- -exlude D---,O---,R---
+Command: java -jar Decoder.jar RDWO 4 -prefix W -suffix D -contains R -regex -OR- -exclude D---,O---,R---
 
 Flags:
 - prefix: Only includes searches with provided prefix (Ex. -prefix tr,rt,fe)
